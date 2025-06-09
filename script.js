@@ -1,4 +1,6 @@
 document.addEventListener('DOMContentLoaded', async () => {
+  
+  /*
   const lawList = document.getElementById('law-list');
 
   try {
@@ -30,6 +32,7 @@ document.addEventListener('DOMContentLoaded', async () => {
   } catch (err) {
     lawList.innerHTML = '<p>資料載入失敗。</p>';
   }
+  */
 
   document.getElementById('toggle-theme').addEventListener('click', () => {
     document.body.classList.toggle('dark');
