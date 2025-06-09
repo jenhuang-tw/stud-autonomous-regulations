@@ -6,6 +6,7 @@
   <title>臺灣學生自治規章</title>
   <link rel="stylesheet" href="style.css" />
   <script defer src="script.js"></script>
+  <script src="show-list.js"></script>
 </head>
 <body>
   <header>
@@ -17,12 +18,11 @@
     <section class="intro">
       <h2>網站簡介</h2>
       <p>本網站旨在蒐集、公開各學生自治組織所訂定之自治規章，並保留其歷史版本供查考。</p>
-      <p>所有法規均以檔案為單位儲存，包含制定沿革與格式化全文。</p>
     </section>
 
-    <section class="law-list" id="law-list">
-      <h2>所有蒐集法規</h2>
-      <!-- 由 script.js 動態產出 -->
+    <section class="law-list">
+      <h2>目前蒐集法規</h2>
+      <div id="regulation-list"></div>
     </section>
   </main>
 </body>
