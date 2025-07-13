@@ -11,6 +11,7 @@
     "deploy": "npm run generate && gh-pages -d .output/public"
   },
   "dependencies": {
+    "@nuxtjs/color-mode": "^3.5.2",
     "@vueuse/core": "^13.5.0",
     "js-yaml": "^4.1.0",
     "nuxt": "^3.17.6",

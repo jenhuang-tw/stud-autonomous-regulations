@@ -13,16 +13,11 @@
 </template>
 
 <script setup lang="ts">
-import { useColorMode } from '@vueuse/core'
-
 const colorMode = useColorMode();
 
 const toggleDarkMode = () => {
   colorMode.preference = colorMode.preference === 'dark' ? 'light' : 'dark';
 };
-
-// Ensure the icon is available, you might need to install `nuxt-icon` module
-// pnpm add -D nuxt-icon
 </script>
 
 <style>
