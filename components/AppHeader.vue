@@ -1,6 +1,6 @@
 <template>
   <header class="bg-primary-600 dark:bg-primary-800 text-white shadow-md p-4 flex justify-between items-center">
-    <NuxtLink to="/" class="text-2xl font-bold">學生自治法規平台</NuxtLink>
+    <NuxtLink to="/" class="text-2xl font-bold">臺灣學生自治規章典藏</NuxtLink>
     <nav>
       <button @click="toggleDarkMode" class="p-2 rounded-full hover:bg-primary-700 dark:hover:bg-primary-700 transition-colors">
         <ClientOnly>

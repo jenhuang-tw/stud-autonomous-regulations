@@ -1,6 +1,6 @@
 <template>
   <div class="container mx-auto px-4 py-8">
-    <h1 class="text-4xl font-extrabold text-center text-primary-700 dark:text-primary-300 mb-8">學生自治法規整理平台</h1>
+    <h1 class="text-4xl font-extrabold text-center text-primary-700 dark:text-primary-300 mb-8">臺灣學生自治規章典藏</h1>
 
     <div class="mb-8 max-w-2xl mx-auto">
       <input
