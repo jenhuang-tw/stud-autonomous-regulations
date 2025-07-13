@@ -25,7 +25,7 @@ export default defineNuxtConfig({
     // For GitHub Pages deployment, change to your repo name, e.g., '/student-regulations/'
     baseURL: '/tw-student-regulation-archive/'
   },
-  ssr: false,
+  //ssr: false,
   nitro: {
     preset: 'static',
   },
