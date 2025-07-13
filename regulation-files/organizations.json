@@ -1,0 +1,26 @@
+[
+  {
+    "id": "ntpusu",
+    "name": "國立臺北大學學生自治會",
+    "shortName": "臺北大學學生會",
+    "regulations": [
+      {
+        "id": "procedure",
+        "name": "國立臺北大學學生自治會學生自治訴訟法",
+        "shortName": "學生自治訴訟法"
+      }
+    ]
+  },
+  {
+    "id": "hwshsa",
+    "name": "國立虎尾高級中學學生會",
+    "shortName": "虎尾高中學生會",
+    "regulations": [
+      {
+        "id": "articles-of-association",
+        "name": "國立虎尾高級中學學生會組織章程",
+        "shortName": "組織章程"
+      }
+    ]
+  }
+]
