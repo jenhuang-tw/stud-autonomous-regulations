@@ -159,10 +159,14 @@ source: 學生會網站
 
 ## 部署到 GitHub Pages
 
-1.  在 `nuxt.config.ts` 中配置 `base` 路徑，例如：`app: { baseURL: '/your-repo-name/' }`
-2.  運行 `pnpm generate`。
+本專案是使用靜態渲染，直接使用 GitHub Pages 部署。
+
+1.  在 `nuxt.config.ts` 中配置 `base` 路徑，例如：`app: { baseURL: '/your-repo-name/' }`（首次部署）
+2.  運行 `npm run generate`。
 3.  將 `.output/public` 目錄的內容推送到 GitHub Pages 的部署分支 (通常是 `gh-pages` 分支)。
+
+您可以在 package.json 中設定 deploy 指令 `"deploy": "npm run generate && gh-pages -d .output/public"`。如此一來，只需要執行 `npm run deploy` 即可完成後二步驟。
 
 ## 版權與授權
 
-[在此處填寫版權和授權信息]
+各學生自治組織法規之著作權，仍歸其所有。
