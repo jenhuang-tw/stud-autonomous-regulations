@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom scrollbar for better UX */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: theme('colors.secondary.100');
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: theme('colors.primary.400');
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: theme('colors.primary.500');
+}
+
+/* Dark mode specific scrollbar */
+.dark ::-webkit-scrollbar-track {
+  background: theme('colors.secondary.800');
+}
+
+.dark ::-webkit-scrollbar-thumb {
+  background: theme('colors.primary.600');
+}
+
+.dark ::-webkit-scrollbar-thumb:hover {
+  background: theme('colors.primary.700');
+}
+
+/* Basic body styling for dark mode transition */
+body {
+  @apply bg-secondary-50 text-secondary-900 transition-colors duration-300;
+}
+
+.dark body {
+  @apply bg-secondary-900 text-secondary-50;
+}
