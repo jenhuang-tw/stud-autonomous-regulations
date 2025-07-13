@@ -31,7 +31,7 @@ export function useRegulationData() {
     loading.value = true;
     error.value = null;
     try {
-      const response = await fetch(`/regulation-files/${orgId}/${regulationId}/versions.json`);
+      const response = await fetch(`/tw-student-regulation-archive/regulation-files/${orgId}/${regulationId}/versions.json`);
       if (!response.ok) {
         throw new Error(`HTTP error! status: ${response.status}`);
       }
