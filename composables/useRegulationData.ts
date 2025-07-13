@@ -1,5 +1,5 @@
 import { ref } from 'vue';
-import yaml from 'js-yaml'; // You might need to install 'js-yaml': pnpm add js-yaml
+import yaml from 'js-yaml';
 
 interface RegulationVersionMeta {
   date: string;
@@ -48,7 +48,7 @@ export function useRegulationData() {
     loading.value = true;
     error.value = null;
     try {
-      const response = await fetch(`/regulation-files/${orgId}/${regulationId}/${filename}`);
+      const response = await fetch(`/tw-student-regulation-archive/regulation-files/${orgId}/${regulationId}/${filename}`);
       if (!response.ok) {
         throw new Error(`HTTP error! status: ${response.status}`);
       }

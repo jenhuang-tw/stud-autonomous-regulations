@@ -20,7 +20,7 @@ export function useOrganizations() {
     loading.value = true;
     error.value = null;
     try {
-      const response = await fetch('/regulation-files/organizations.json');
+      const response = await fetch('/tw-student-regulation-archive/regulation-files/organizations.json');
       if (!response.ok) {
         throw new Error(`HTTP error! status: ${response.status}`);
       }
