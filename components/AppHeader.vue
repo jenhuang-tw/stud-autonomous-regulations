@@ -3,10 +3,10 @@
     <NuxtLink to="/" class="text-2xl font-bold">臺灣學生自治規章典藏</NuxtLink>
     <nav>
       <button @click="toggleDarkMode" class="p-2 rounded-full hover:bg-primary-700 dark:hover:bg-primary-700 transition-colors">
-        <ClientOnly>
+        
           <Icon v-if="colorMode.preference === 'dark'" name="heroicons-outline:sun" class="h-6 w-6" />
           <Icon v-else name="heroicons-outline:moon" class="h-6 w-6" />
-        </ClientOnly>
+        
       </button>
     </nav>
   </header>

@@ -8,6 +8,10 @@ export default defineNuxtConfig({
   ],
   app: {
     head: {
+      htmlAttrs: {
+        lang: 'zh-TW',
+        'data-color-mode': ''
+      },
       title: '臺灣學生自治規章典藏',
       meta: [
         { charset: 'utf-8' },
