@@ -27,9 +27,7 @@ export default defineNuxtConfig({
   },
   ssr: false,
   nitro: {
-    prerender: {
-      routes: ['/']
-    }
+    preset: 'static',
   },
   tailwindcss: {
     cssPath: '~/assets/css/main.css',
