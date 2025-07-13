@@ -1,14 +1,14 @@
 {
-  "current": "111-02-20",
+  "current": "111-09-20",
   "versions": [
     {
-      "date": "111-02-20",
+      "date": "111-09-20",
       "fullTitle": "國立虎尾高級中學學生會組織章程",
       "shortTitle": "組織章程",
-      "note": "",
+      "note": "111 年 9 月 15 日班代會議通過，111 年 9 月 20 日公告生效",
       "isCurrent": true,
-      "source": "",
-      "filename": "111-02-20.txt"
+      "source": "國教署學生事務資訊網",
+      "filename": "111-09-20.txt"
     },
     {
       "date": "110-02-11",
@@ -32,9 +32,9 @@
       "date": "091-10-14",
       "fullTitle": "國立虎尾高級中學班聯會組織章程",
       "shortTitle": "班聯會章程",
-      "note": "",
+      "note": "中華民國 91 年 10 月 14 日修訂",
       "isCurrent": false,
-      "source": "",
+      "source": "國教署學生事務暨學生活動資訊網",
       "filename": "091-10-14.txt"
     }
   ]
