@@ -1,0 +1,8 @@
+---
+fullTitle: 國立虎尾高級中學班聯會組織章程
+shortTitle: 班聯會章程
+note: 
+isCurrent: false
+source: 
+---
+(測試資料)
