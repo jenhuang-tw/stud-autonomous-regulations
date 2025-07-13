@@ -19,7 +19,7 @@ export default defineNuxtConfig({
       ]
     },
     // For GitHub Pages deployment, change to your repo name, e.g., '/student-regulations/'
-    baseURL: '/tw-student-regulation-archive'
+    baseURL: '/tw-student-regulation-archive/'
   },
   tailwindcss: {
     cssPath: '~/assets/css/main.css',
