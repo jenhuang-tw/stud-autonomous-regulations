@@ -2,7 +2,7 @@
   <div class="container mx-auto px-4 py-8">
     <NuxtLink to="/" class="inline-flex items-center text-primary-600 dark:text-primary-400 hover:underline mb-6">
       <Icon name="heroicons-outline:arrow-left" class="w-5 h-5 mr-1" />
-      返回首頁
+      回首頁
     </NuxtLink>
 
     <div v-if="loading" class="text-center text-lg text-secondary-600 dark:text-secondary-400">載入中...</div>
