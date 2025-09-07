@@ -1,0 +1,148 @@
+---
+fullTitle: 國立虎尾高級中學學生會組織章程
+shortTitle: 組織章程
+note: 中華民國109年7月14日校務會議通過
+isCurrent: false
+source: 整理人向學生會索取。
+---
+
+<h2 class="chapter">第一章 總則</h2>
+<p class="article-title">第1條</p>
+<p class="article">本會定名為「國立虎尾高級中學學生會」，簡稱「虎高學生會」（以下簡稱本會）。</p>
+
+<p class="article-title">第2條</p>
+<p class="article">本會依高級中等教育法第五十三條設立，以發揮學生自治精神，加強學校與同學之溝通，協助校務推展，協助辦理各項學生活動，爭取學生權益，謀求學生福利，培養學生民主與法治之素養，發揚虎尾高中優良傳統，建立良好校風為宗旨。</p>
+
+<p class="article-title">第3條</p>
+<p class="para">本會職務如下：</p>
+<p class="subsec">一、每學期至少召開兩次幹部會議，報告會務，其餘可視需要不定期召開。</p>
+<p class="subsec">二、配合學校行政，由學務處指導辦理、規劃各項活動，並依學生會決議辦理。</p>
+<p class="subsec">三、保障會員權利。</p>
+<p class="subsec">四、指派代表參加學校相關會議，並依相關法令，得於會議上提案、參與各提案之表決。</p>
+<p class="subsec">五、於學期初徵選班級代表，於會內決議之時間召開班代會議。</p>
+
+<p class="para">（四.五點詳見第六章-相關會議）</p>
+
+<p class="article-title">第4條</p>
+<p class="article">本會會址設於雲林縣虎尾鎮光復路222號，虎尾高中。</p>
+<h2 class="chapter">第二章 會員</h2>
+
+<p class="article-title">第5條</p>
+<p class="article">凡於本校註冊之在校學生，均為本會會員，其權利一律平等。</p>
+
+<p class="article-title">第6條</p>
+<p class="article">會員之權力如下：</p>
+<p class="subsec">一、對班級所選代表有行使選舉、罷免之權。</p>
+<p class="subsec">二、有被選舉為班級代表之權。</p>
+<p class="subsec">三、有參加本會所舉辦各項活動之權。</p>
+<p class="subsec">四、對本會有提供意見之權。</p>
+
+<p class="article-title">第7條</p>
+<p class="article">會員之義務如下：</p>
+<p class="subsec">一、對於本會之規章及決議案有遵守履行之義務。</p>
+<p class="subsec">二、對於本會會務與活動有負責推行之義務。</p>
+<h2 class="chapter">第三章 組織</h2>
+
+<p class="article-title">第8條</p>
+<p class="article">本會決策機構為會員代表大會，其會員以選舉及徵選之方式產生，任期為高中二年級一學年。</p>
+
+<p class="article-title">第9條</p>
+<p class="article">訓育組長為指導老師。</p>
+
+<p class="article-title">第10條</p>
+<p class="para">會員代表大會下設會長一人，副會長兩人、活動、公關、美宣、總務、文書、器材等組各若干人，其職掌分別如下：</p>
+<p class="subsec">一、會長：對內總理內務，對外代表本會，負責總理本會事宜。</p>
+<p class="subsec">二、副會長：協助會長執行本會事宜，會長因故缺席時代理之。</p>
+<p class="subsec">三、活動：負責策劃及推行本會所舉辦之各類活動、舉辦之場地佈置及其他服務事項。</p>
+<p class="subsec">四、公關：負責本會會議之聯絡及舉辦活動之連繫，對校外負責公共關係，且於活動辦理期間向相關人員辦理相關手續。</p>
+<p class="subsec">五、美宣：負責本會學藝活動，海報、壁報設計。</p>
+<p class="subsec">六、總務：負責本會經費收支，財產保管。</p>
+<p class="subsec">七、文書：負責會議記錄及資料之收集整理。</p>
+<p class="subsec">八、資訊：負責網路帳號發文，公告等。</p>
+<p class="subsec">九、器材：負責租借本會所需器材。</p>
+<p class="para">（以上職位之人選產生方式詳見第四章-代表）</p>
+<h2 class="chapter">第四章 代表</h2>
+
+<p class="article-title">第11條</p>
+<p class="para">學生會正副會長選舉得票最高者為該屆會長，票數第二、第三者為該屆副會長。若有同票情形，則擇日再投。</p>
+<p class="para">（選舉相關辦法詳見第五章-正副會長選舉與罷免）</p>
+
+<p class="article-title">第12條</p>
+<p class="article">本會正副會長外各職務透過自由報名後由現任幹部徵選面試通過後聘任。</p>
+
+<p class="article-title">第13條</p>
+<p class="article">本會所有組員每任任期一學年。</p>
+<h2 class="chapter">第五章 正副會長選舉與罷免</h2>
+
+<p class="article-title">第14條</p>
+<p class="article">每學年度第二學期結束前舉行會長及副會長選舉，選舉前將通知一年級各班，每班得自由推派至多兩名代表參選。請有意願參選之候選人提交紙本報名表至學務處，並在通知後三周於朝會時間發表政見，發表政見後兩周於朝會時間由一、二年級全體學生投票。上述相關作業由本會執行。</p>
+
+<p class="article-title">第15條</p>
+<p class="article">正副會長及各組員任期均為1學年，即每年度8月1日至隔年度7月31日。</p>
+
+<p class="article-title">第16條</p>
+<p class="article">若本會成員於任職期間，有以下情事，可予以罷免或同意退職：</p>
+<p class="subsec">一、有曠廢職責或不適任之嫌，經本會幹部會議主動議決（2/3以上成員出席，1/2以上出席者同意），或由1/2以上班級代表連署，提請班級代表會議議決，通過後交由全校高一、高二學生投票罷免。</p>
+<p class="subsec">二、違犯校規受處分達累計三支小過或一支大過者，逕行罷免。</p>
+<p class="subsec">三、本會成員因個人考量，自行向本會提出辭退者，經會內幹部會議2/3以上成員出席，出席者1/2同意後，准予辭退。</p>
+
+<p class="article-title">第17條</p>
+<p class="article">若會長、副會長及各組長遭罷免或退職者，補選或代理方式如下：</p>
+<p class="subsec">一、會長若任期未滿1學期，則於罷免（退職）生效後一個月內，完成補選，補選辦法依照第十五條；補選完成前，由副會長代理。若任期已超過1學期，由副會長逕行代理至該屆任期結束。</p>
+<p class="subsec">二、副會長或幹部若任期未滿1學期，則由本會成員於罷免（退職）生效後一個月內，提名適當人選，由班級代表會議1/2以上成員出席，出席者2/3同意後通過新人事案。新人事案通過前，由會長於各幹部中指定適當人選代理。若任期已過1學期，則由代理人逕行代理至該屆任期結束。</p>
+<p class="subsec">三、若會長、副會長先後因故離職，則由班級代表互推一人擔任代理會長，兩人擔任代理副會長。因此而出缺之班級代表，其補選或代理規定如上述。</p>
+
+<h2 class="chapter">第六章 會議</h2>
+
+<p class="article-title">第18條</p>
+<p class="article">本會有權推派人員出席校方召開之會議，人數如下：</p>
+<p class="subsec">一、正、副會長一名出席</p>
+<p class="subsec">二、會內幹部、會議議題之受眾，經會內討論同意後之人選若干名列席</p>
+
+<p class="article-title">第19條</p>
+<p class="article">本會將於開學前討論出該學期班級代表（下稱班代）會議時間，非特殊情況不得取消該會議。班代產生方式由各班自行推派，其具有代表該班級學生共識之權力。本會將於此會議討論議題、蒐集學生意見、協助學校各處室宣導相關事務，本會亦設有線上信箱，由此管道獲得之具名屬實之問題、投訴、建議將全數於班代會議上討論。班代會議討論之結果由學務處訓育組彙整後，簽會各相關處室週知。</p>
+
+<h2 class="chapter">第七章 經費</h2>
+<p class="article">本會秉持經費公開透明之原則，其用途及流向將清楚記載於本校主計室請購系統備查。</p>
+
+<p class="article-title">第20條</p>
+<p class="article">本會經費來源如下：</p>
+<p class="subsec">一、學校補助之活動經費。</p>
+<p class="subsec">二、本校家長會補助之活動經費。</p>
+<p class="subsec">三、本會辦理各項活動之經費收入。</p>
+
+<p class="article-title">第21條</p>
+<p class="article">本會經費用途如下：</p>
+<p class="subsec">一、學校補助之活動經費支應本校委託活動之所有開銷，包含場地、人事、道具等。</p>
+<p class="subsec">二、本會舉辦之活動。</p>
+
+<p class="article-title">第22條</p>
+<p class="article">本會將於每學期第一次班代會議提出年度會務計畫，並於最後一次會議提出年度會務執行報告及經費決算。上述資訊於班代會議公布後，交由學務處保管備查；學務處主管機關得於期中不定期檢視經費運用情形。</p>
+<h2 class="chapter">第八章 獎勵</h2>
+
+<p class="article-title">第23條</p>
+<p class="article">本會正副會長及各組之組員均由校方頒予證書；任期結束後表現優良者，正副會長記小功2支，各組之組員則給予證書及小功1支。但若上述人員因故中途離職，原發放之當選證書應追回，改為核實發放服務時數證明，並列明其任職期間。各班班代則記嘉獎兩支。</p>
+<h2 class="chapter">第九章 畢業生聯合會（下稱畢聯會）</h2>
+
+<p class="article-title">第24條</p>
+<p class="article">畢聯會會員得以由本會會員晉升，每任任期為高中三年級一學年。</p>
+
+<p class="article-title">第25條</p>
+<p class="article">畢聯會相關事務：</p>
+<p class="subsec">一、協助畢業紀念冊之製作，包含共同頁製作、聯繫各班負責人等。</p>
+<p class="subsec">二、協助訓育組交辦之各項畢業生相關業務，如：畢業歌徵選等。</p>
+<p class="subsec">三、協助成立畢業典禮小組，其成員之徵選方式由每一屆畢聯會與指導老師開會決議之。畢業典禮小組之業務為籌辦畢業典禮、畢業舞會、設計畢業紀念衫等，其工作內容與畢聯會不完全重疊，彼此可獨立運作。</p>
+
+<h2 class="chapter">附則</h2>
+
+<p class="article-title">第26條</p>
+<p class="article">本會各項會議程序，悉依會議規範之規定進行。</p>
+
+<p class="article-title">第27條</p>
+<p class="article">本章程如欲修改或刪除，須經現任學生會會員同意之。</p>
+
+<p class="article-title">第28條</p>
+<p class="article">章程未定事宜，依有關法令之規定或習慣辦理。</p>
+
+<p class="article-title">第29條</p>
+<p class="article">本章程由現任學生會會員修訂、校務會議通過，經校長核准後實施，修改時亦同。</p>
